@@ -1,0 +1,13 @@
+PLACEHOLDER DATATYPE
+%d or %i integer
+%u unsigned int
+%f floating-­‐point
+%lf double floating-­‐point
+%c character
+%s String
+
+and && Si ambas condiciones se cumplen, retorna true
+or || Si alguna de las dos condiciones se cumple, retorna true.
+Negación ! Niega una condición. Si es true, lo vuelve false y viciversa.
+
+El símbolo “\n” representa un salto de línea
